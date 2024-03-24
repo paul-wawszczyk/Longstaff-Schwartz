@@ -10,7 +10,11 @@ Americans options are financial derivatives that can be exercised at any time be
  These results are derived from the original paper: *Schwartz, Francis A. Longstaff Eduardo S. "Valuing American Options by Simulation: A Simple Least—Squares." (2001).*
 
 Result for the dummy example in the paper are shown below. The results are consistent with the paper.
- ![Results-paper](images/barrier_paper_example.png)
- Results for order 2 and 3 on more comple paths are shown below.
- ![Results-paper](images/barrier_paper_order=2.png)
- ![Results-paper](images/barrier_paper_order=3.png)
+![Results-paper](images/barrier_paper_example.png)
+
+Results for order 2 and 3 on more complex paths are shown below.
+
+![Results-paper](images/barrier_paper_order=2.png)
+![Results-paper](images/barrier_paper_order=3.png)
+![Results-paper](images/barrier_paper_order=8_seed100_expreg.png)
+
